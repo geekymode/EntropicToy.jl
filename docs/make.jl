@@ -9,7 +9,7 @@ makedocs(;
     repo="https://github.com/geekymode/EntropicToy.jl/blob/{commit}{path}#{line}",
     sitename="EntropicToy.jl",
     format=Documenter.HTML(;
-        prettyurls=get(ENV, "CI", "false") == "true",
+        prettyurls=get(ENV, "CI", "nothing") == "true",
         canonical="https://geekymode.github.io/EntropicToy.jl",
         assets=String[],
     ),

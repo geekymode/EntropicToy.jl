@@ -42,7 +42,7 @@ using IntervalLinearAlgebra, LazySets, Plots
 A = [2..4 -1..1; -1..1 2..4]
 b = [-2..2, -1..1]
 
-
+```
 ## Citation
 
 If you use this package in your work, please cite it as
@@ -54,9 +54,9 @@ author = {
             Faithfully Yours and
             Best Soul in here
          },
-title  = {IntervalLinearAlgebra.jl: linear algebra done rigorously},
-month  = {9},
-year   = {2021},
+title  = {EntropicToy.jl Work done rigorously},
+month  = {1},
+year   = {2022},
 doi    = {10.dds/ss},
 url    = {https://github.com/geekymode/EntropicToy.jl}
 }
