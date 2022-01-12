@@ -61,6 +61,5 @@ jobs:
           julia --color=yes --project=docs -e '
             using Documenter: DocMeta, doctest
             using EntropicToy
-            using Pkg; Pkg.develop(PackageSpec(path=pwd())); Pkg.instantiate()
             DocMeta.setdocmeta!(EntropicToy, :DocTestSetup, :(using EntropicToy); recursive=true)
             doctest(EntropicToy)'
