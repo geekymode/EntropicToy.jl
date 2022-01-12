@@ -1,4 +1,5 @@
 # EntropicToy
+# About Me
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://geekymode.github.io/EntropicToy.jl/stable)
 [![Dev](https://img.shields.io/badge/docs-dev-blue.svg)](https://geekymode.github.io/EntropicToy.jl/dev)
