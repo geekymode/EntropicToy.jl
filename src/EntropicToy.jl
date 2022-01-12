@@ -4,6 +4,6 @@ module EntropicToy
 greet() = "Hello World"
 greet_random() = "Hello Random" 
 
-import greet,greet_random
+export greet,greet_random
 
 end
