@@ -62,7 +62,7 @@ url    = {https://github.com/geekymode/EntropicToy.jl}
 }
 ```
 
-# Example.jl Documentation
+# Example.jl Documentation Bla
 
 ```@docs
 func(x)
